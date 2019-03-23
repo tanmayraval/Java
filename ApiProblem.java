@@ -19,11 +19,11 @@ database and another method called “getEvents()” which takes care of pulling
 from your database.
 • Your Java code should be heavily commented with detailed explanations about what
 the code is doing.
-
 db_input.txt looks like this
 2018-09-27,15:34:22,flooding in Thurman on route 8, Flooding has occurred on route 8 just outside of Thurman. A portion of route 8 remains closed while crews clean up the water. Road will reopen in 2 hours.,flooding
 2018-09-21,10:15:45,some residents of Thurman lose power, Some residents of Thurman have lost power due to the storm last night.  The storm caused tree branches to fall on some major power lines and consequently broke the lines. The power company expects to have power restored later today.,power outage
 2018-09-26,19:23:12,accident on I-87 between exits 23 and 24, A 3-car accident has occurred on I-87 northbound just after the Warrensburg exit. The stretch of highway between 23 and 24 remains closed at this time. Seek alternate routes.,highway safety
+@author : Tanmay Raval
 */
 import java.io.BufferedReader;
 import java.io.File;
